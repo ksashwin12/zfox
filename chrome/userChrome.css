@@ -1,0 +1,9 @@
+#alltabs-button, 
+#customizableui-special-spring1,
+#customizableui-special-spring2,
+#firefox-view-button,
+#PersonalToolbar,
+.titlebar-spacer
+ {
+  display: none;
+}
